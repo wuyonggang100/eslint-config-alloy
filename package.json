@@ -80,7 +80,7 @@
         "doctrine": "^3.0.0",
         "eslint": "^6.7.1",
         "eslint-config-prettier": "^6.10.0",
-        "eslint-plugin-react": "^7.18.3",
+        "eslint-plugin-react": "^7.19.0",
         "eslint-plugin-vue": "^6.2.1",
         "husky": "^4.0.2",
         "insert-tag": "^0.1.2",
