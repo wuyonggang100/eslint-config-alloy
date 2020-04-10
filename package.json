@@ -82,7 +82,7 @@
         "eslint-config-prettier": "^6.10.0",
         "eslint-plugin-react": "^7.18.3",
         "eslint-plugin-vue": "^6.2.1",
-        "husky": "^4.0.2",
+        "husky": "^4.2.5",
         "insert-tag": "^0.1.2",
         "mobi-plugin-color": "^1.0.0",
         "mobi.css": "^3.1.1",
